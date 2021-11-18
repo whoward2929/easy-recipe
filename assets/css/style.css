@@ -93,6 +93,17 @@ body {
   color: white;
 }
 
+.centered-title {
+    text-align: center;
+    color: red;
+}
+
+.dish {
+    text-align: center;
+    border: 2px solid grey;
+    border-radius: 25px;
+}
+
 @media screen and (max-width: 600px) {
   .topnav .search-container {
     float: none;
