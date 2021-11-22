@@ -9,7 +9,7 @@ body {
 }
 
 .topbar {
-    background-color: white;
+    background-color: rgb(219, 165, 47);
     color: black;
     text-decoration: none;
 }
@@ -23,7 +23,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: Allura;
-    background-color: white;
+    background-color: rgb(219, 165, 47);
 }
 
 h1 {
@@ -37,7 +37,7 @@ h1 {
   overflow: hidden;
   border-top: 2px solid #333333;
   border-bottom: 2px solid #333333;
-  background-color: #e4e4e4;
+  background-color: #da7f08d0;
 }
 
 .links {
@@ -60,7 +60,7 @@ h1 {
 
 .topnav a:hover {
   background-color: #962323;
-  color: white;
+  color: rgba(255, 255, 255, 0.39);
 }
 
 .topnav a.active {
@@ -84,7 +84,7 @@ h1 {
   padding: 6px;
   margin-top: 8px;
   margin-right: 16px;
-  background: #3066cd;
+  background: #962323;
   color: white;
   font-size: 17px;
   border: none;
@@ -120,7 +120,7 @@ h1 {
     padding: 14px;
   }
   .topnav input[type=text] {
-    border: 1px solid #ccc;  
+    border: 1px solid rgb(204, 204, 204);  
   }
 }
 
@@ -130,5 +130,5 @@ h1 {
 }
 
 .card-body {
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.945);
 }
