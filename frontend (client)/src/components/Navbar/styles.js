@@ -46,6 +46,9 @@ export default makeStyles((theme) => ({
   logout: {
     marginLeft: '20px',
   },
+  myprofile: {
+    marginLeft: '20px',
+  },
   userName: {
     display: 'flex',
     alignItems: 'center',
