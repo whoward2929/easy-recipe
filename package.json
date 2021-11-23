@@ -1,0 +1,23 @@
+{
+  "name": "easy-recipe",
+  "version": "1.0.0",
+  "description": "A recipe blog website where you can create an account, upload, like, and comment on recipes!",
+  "main": "index.js",
+  "scripts": {
+    "develop": "concurrently \"cd frontend && npm start\" \"cd backend && npm start\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wamackie/easy-recipe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wamackie/easy-recipe/issues"
+  },
+  "homepage": "https://github.com/wamackie/easy-recipe#readme",
+  "dependencies": {
+    "concurrently": "^6.4.0"
+  }
+}
